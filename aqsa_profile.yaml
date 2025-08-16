@@ -1,0 +1,120 @@
+# All the facts your assistant is allowed to use.
+# Edit this file to update the bot's knowledge.
+name: "Aqsa Shah"
+tagline: "Frontend Developer • Simple, classy designs"
+location: "Hyderabad, Sindh, Pakistan"
+languages:
+  - English
+  - Urdu
+  - Sindhi
+bio_short: >
+  Aqsa Shah is a frontend developer who loves clean, minimal interfaces that still feel warm and human. She builds fast, responsive UIs and enjoys turning ideas into polished, real-world projects. Aqsa also has expertise in the OpenAI Agents SDK, where she creates intelligent agents and chatbots, and is skilled in prompt engineering. Alongside frontend development, she works with Python and has built full-stack websites using technologies like MongoDB. She has integrated payment solutions such as Stripe and developed fully functional e-commerce websites, showcasing her ability to deliver complete, real-world applications.
+values:
+  - "Keep it simple but elegant"
+  - "Ship, learn, iterate"
+  - "Help others and credit collaborators"
+
+education:
+  - program: "Cloud Applied Generative AI Engineering & Metaverse"
+    institution: "GIAIC (Governor House Initiative) and PIAIC"
+    years: "2024 - 2026"
+    notes: "Learning HTML, CSS, TypeScript, npm, Node.js, modern UI patterns, Next.js, React, Python, OpenAI  Agents SDK"
+  - program: "BS in Computer Science"
+    institution: "University of Sindh Jamshoro"
+    years: "2025 - 2029"
+    notes: "Learning C++, Java, PHP"
+
+experience:
+  - role: "Senior Student (Quarter 1,2)"
+    organization: "GIAIC, PIAIC"
+    highlights:
+      - "Presented journey on stage; thanked Governor Kamran Tessori"
+      - "Selected for onsite; committed to self-study and projects"
+      - "From Naushahro Feroze; living away from family to pursue goals"
+
+skills_primary:
+  - HTML
+  - CSS
+  - TypeScript
+  - JavaScript
+  - React
+  - Next.js
+  - Tailwind CSS
+  - ShadCN UI
+  - Framer Motion
+  - Python
+  - OpenAI Agents SDK
+  - C++ 
+  - Java
+  - PHP
+
+skills_tools:
+  - Git
+  - GitHub
+  - GitHub Desktop
+  - Figma
+  - Google Colab
+  - Jupyter Notebook
+  - Docker
+  - Linux (Ubuntu)
+  - Prompt Engineering
+  - Vercel
+  - Netlify
+
+projects:
+  # Note: User prefers not to mention "Next.js" or "Tailwind" inside descriptions.
+  - name: "E-commerce Website"
+    year: 2024
+    description: "Designed a pixel-perfect UI in Figma and built a fully functional e-commerce website with authentication, payments, and dynamic pages. Integrated Clerk for secure auth, Stripe for payments, and APIs for data handling. The site is responsive, production-ready, and deployed on Vercel."
+    role: "Full-Stack Developer"
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "ShadCN", "Clerk", "Stripe", "API Integration", "Figma"]
+    links:
+      demo: ""
+      code: ""
+  - name: "Blog Website"
+    year: 2024
+    description: "Built a full-stack blog platform where users can subscribe, create, edit, and delete posts. Focused on smooth animations, clean UI, and robust backend using MongoDB. The project showcases authentication, CRUD functionality, and production-ready deployment."
+    role: "Full-Stack Developer"
+    tech: ["Next.js", "TypeScript", "Framer Motion", "MongoDB"]
+    links:
+      demo: ""
+      code: ""
+  - name: "Clone Projects & Mini Apps"
+    year: 2024
+    description: "Created multiple clone projects and small-scale apps to sharpen skills. These include a pixel-perfect Amazon clone, a Facebook login page replica, and several other mini apps focusing on UI/UX, responsiveness, and real-world functionality."
+    role: "Creator"
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"]
+    links:
+      demo: ""
+      code: ""
+  - name: "AI Agents & Chatbot"
+    year: 2024
+    description: "Explored OpenAI Agents SDK and built multiple small agents. Developed a large-scale subject-assistant chatbot for classmates that answers academic questions accurately. Designed the chatbot’s UI with Streamlit and integrated Gemini API for enhanced responses. Also leveraged Python expertise to make the system efficient and reliable."
+    role: "AI Engineer"
+    tech: ["Python", "OpenAI Agents SDK", "Streamlit", "Gemini API"]
+    links:
+      demo: ""
+      code: ""
+  - name: "Portfolio Website"
+    year: 2024
+    description: "Personal site reflecting a love for simple fully animated,  classy design; mobile-responsive and deployed."
+    role: "Creator"
+    tech: ["TypeScript", "React", "ShadCN UI", "Framer Motion"]
+    links:
+      demo: ""
+      code: ""
+
+achievements:
+  - "Explored and integrated cutting-edge AI tools including OpenAI Agents SDK, Gemini API, and Streamlit (2024 25)."
+  - "Promoted as a senior student in Quarter 2 at GIAIC, mentoring peers in coding and project building (2024)."
+  - "Deployed multiple projects on Vercel and Netlify."
+  - "Consistent self-study and practice; calm, thoughtful approach to problem-solving."
+
+contact:
+  email: "aqsashah000000@email.com"     
+  github: "https://github.com/Dev-AqsaShah"  
+  linkedin: "www.linkedin.com/in/aqsa-shah-" 
+
+preferences:
+  mention_tech_in_project_description: true
+  answer_language_default: "Urdu + English"
